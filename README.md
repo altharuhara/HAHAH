@@ -45,6 +45,6 @@
 |Место обучения|Оренбургский Государственный Университет|
 
 ## Логотип игры
-<img width="1280" height="720" alt="wordle" src="https://github.com/user-attachments/assets/d19b2678-ddc8-44be-a42a-012d51d8c157" />
+<img width="75" height="75" alt="wordle" src="https://github.com/user-attachments/assets/d19b2678-ddc8-44be-a42a-012d51d8c157" />
 
 
